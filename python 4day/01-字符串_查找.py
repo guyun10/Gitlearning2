@@ -1,5 +1,5 @@
-mystr = 'py hello world my python'
-
+# mystr = 'py hello world my python'
+# mystr = 'py hello world my python'
 # 子串
 # index():如果有这个子串，返回第一个字符的下标；如果没有这个子串，报错
 # print(mystr.index('py'))
